@@ -24,10 +24,12 @@ grumphp:
             exclude: []
             show_sniffs_error_path: true
         phpmd:
+            bin: ./vendor/bin/phpmd
+            directories: src/
             whitelist_patterns: []
             exclude: []
             report_format: text
-            ruleset: ['cleancode', 'codesize', 'naming']
+            ruleset: ['cleancode', 'codesize', 'naming', 'codesize', 'controversial', 'design', 'unusedcode']
             triggered_by: ['php']
         git_commit_message:
             allow_empty_message: false
