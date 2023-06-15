@@ -11,7 +11,8 @@
         "phpmd/phpmd": "^2.13",
         "friendsofphp/php-cs-fixer": "^3.17",
         "mockery/mockery": "^1.6",
-        "phpro/grumphp": "^1.16"
+        "phpro/grumphp": "^1.16",
+        "ergebnis/composer-normalize": "^2.31"
     },
     "minimum-stability": "stable",
     "prefer-stable": true,
@@ -28,7 +29,8 @@
     "config": {
         "optimize-autoloader": true,
         "allow-plugins": {
-            "phpro/grumphp": true
+            "phpro/grumphp": true,
+            "ergebnis/composer-normalize": true
         }
     },
     "scripts": {
