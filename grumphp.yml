@@ -9,7 +9,7 @@ grumphp:
             always_execute: false
             order: null
         phpcs:
-            standard: [PSR12]
+            standard: [PSR12, PHPCS]
             severity: ~
             error_severity: ~
             warning_severity: ~
