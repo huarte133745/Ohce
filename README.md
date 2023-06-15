@@ -27,6 +27,7 @@
 | **Refactorización**	    | Refactorización del código, tanto del código de producción como del de testing. |
 | **Estilo**	             | Cambios de formato, tabulaciones, espacios o puntos y coma, etc.                |
 | **Test**	               | Adición de tests o refactorización de uno existente.                            |
+| **Implementación**	     | Implementación de código de producción.                                         |
 
 ---
 
