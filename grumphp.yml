@@ -1,6 +1,8 @@
 # grumphp.yml
 grumphp:
     tasks:
+            bin: ./vendor/bin/
+            directories: src/
         phpunit:
             config_file: ~
             testsuite: ~
@@ -24,8 +26,6 @@ grumphp:
             exclude: []
             show_sniffs_error_path: true
         phpmd:
-            bin: ./vendor/bin/phpmd
-            directories: src/
             whitelist_patterns: []
             exclude: []
             report_format: text
