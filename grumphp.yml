@@ -1,7 +1,6 @@
 grumphp:
-    grumphp:
     tasks:
-        phpunit:
+        phpunit: null
 		phpcs:
             standard: []
             severity: ~
