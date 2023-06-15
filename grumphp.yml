@@ -38,8 +38,7 @@ grumphp:
             type_scope_conventions: []
             max_body_width: 72
             max_subject_width: 60
-            matchers:
-                Must contain JIRA issue number: /JIRA-\d+/
+            matchers: []
             case_insensitive: true
             multiline: true
             additional_modifiers: ''
