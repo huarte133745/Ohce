@@ -18,6 +18,20 @@
 
 ### [Prefijos para los commits](https://midu.dev/buenas-practicas-escribir-commits-git/)
 
+| Prefijo                 | Descripción                                                                     |
+|-------------------------|---------------------------------------------------------------------------------|
+| **Corrección** 	        | Arreglo de errores del código.                                                  |
+| **Configuración**    		 | Configuración de herramientas para el proyecto.                                 |
+| **CI-CD**	              | Operaciones sobre la integración continua (CI-CD).                              |
+| **Documentación**		     | Cambios en la documentación del proyecto.                                       |
+| **Refactorización**	    | Refactorización del código, tanto del código de producción como del de testing. |
+| **Estilo**	             | Cambios de formato, tabulaciones, espacios o puntos y coma, etc.                |
+| **Test**	               | Adición de tests o refactorización de uno existente.                            |
+
+---
+
+### [Más Prefijos para los commits](https://midu.dev/buenas-practicas-escribir-commits-git/)
+
 | Prefijo         | Descripción                                                                             |
 |-----------------|-----------------------------------------------------------------------------------------|
 | **feat**  		    | Una nueva característica para el usuario.                                               |
