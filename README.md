@@ -2,7 +2,7 @@
 
 **Con los siguientes elementos integrados:**
 
-- Pre-commit (prueba 1)
+- Pre-commit (prueba 12)
 - CI-CD (phpmd y phpcs)
 - Grump
 
