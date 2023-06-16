@@ -24,8 +24,6 @@ grumphp:
             exclude: []
             show_sniffs_error_path: true
         phpmd:
-            bin: ./vendor/bin/
-            directories: src/
             whitelist_patterns: []
             exclude: []
             report_format: text
